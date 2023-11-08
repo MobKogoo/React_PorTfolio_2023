@@ -57,8 +57,8 @@ export default function BaseLayout() {
             width={"100%"}
           >
             <p>
-              template created with &hearts; by{" "}
-              <a href={"https://www.netlify.com/"}> netlify </a>
+               created with &hearts; by{" "}
+              <a href={"https://github.com/MobKogoo"}> netlify </a>
             </p>
             <p>&copy; 2023</p>
           </Box>
