@@ -61,7 +61,7 @@ export const info = {
     }
   ],
   bio:
-    "Hello! I'm Ikrakli Kogua. I'm a systems engineer for Freelancer. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    "Hello! I'm Ikrakli Kogua. I'm a Front-end engineer for Freelancer. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
   skills: {
     proficientWith: [
       "javascript",
